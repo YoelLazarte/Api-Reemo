@@ -62,7 +62,7 @@ Sigue los pasos a continuación para configurar y ejecutar el proyecto:
 ## Contribuidores
 Este proyecto fue desarrollado por:
 
-- **Lucas Panadero**
-- **Valentino Gassipi**
-- **Yoel Lazarte**
+- [Lucas Panadero](https://github.com/panadxro)
+- [Valentino Gassipi](https://github.com/GasipiValentino)
+- [Yoel Lazarte](https://github.com/YoelLazarte)
 
